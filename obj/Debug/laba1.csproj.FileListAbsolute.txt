@@ -1,0 +1,16 @@
+C:\Users\adfgh\Desktop\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\adfgh\Desktop\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\adfgh\Desktop\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\adfgh\Desktop\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\adfgh\Desktop\laba1\laba1\obj\Debug\laba1.MainForm.resources
+C:\Users\adfgh\Desktop\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\adfgh\Desktop\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\adfgh\Desktop\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\sshis\Documents\РГУ\laba1\bin\Debug\laba1.exe.config
+C:\Users\sshis\Documents\РГУ\laba1\bin\Debug\laba1.exe
+C:\Users\sshis\Documents\РГУ\laba1\bin\Debug\laba1.pdb
+C:\Users\sshis\Documents\РГУ\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\sshis\Documents\РГУ\laba1\obj\Debug\laba1.MainForm.resources
+C:\Users\sshis\Documents\РГУ\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\sshis\Documents\РГУ\laba1\obj\Debug\laba1.exe
+C:\Users\sshis\Documents\РГУ\laba1\obj\Debug\laba1.pdb
